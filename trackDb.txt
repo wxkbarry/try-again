@@ -1,0 +1,25 @@
+track myBigBed
+bigDataUrl myBigBed.bb
+shortLabel myBigBed
+longLabel myBigBed
+type bigBed 12
+visibility full
+itemRgb on
+
+track JPZ1041_wssd JPZ0701_wssd
+bigDataUrl JPZ1041_wssd.bb JPZ0701_wssd.bb
+shortLabel JPZ1041_wssd JPZ0701_wssd
+longLabel  JPZ1041_wssd JPZ0701_wssd
+longLabel  JPZ1041_wssd JPZ0701_wssd
+type bigBed 9
+visibility dense
+itemRgb on
+
+track KUS018_wssd
+bigDataUrl KUS018_wssd.bb
+shortLabel KUS018_wssd
+longLabel  KUS018_wssd
+longLabel  KUS018_wssd
+type bigBed 9
+visibility dense
+itemRgb on
